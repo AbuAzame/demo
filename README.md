@@ -1,7 +1,6 @@
-# demo
-trial
+Hello Everyone!
+i am Md.Abu azame tuhin. This is my first polish git push upload..
 
-Hello 
-hi
-I am abu azame tuhin 
-hhhhhhhhhhhhhhhhhhh
+#git add README.md 
+#git commit -m "fist-"
+#git push -u origin main
