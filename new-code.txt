@@ -4,3 +4,6 @@ git commit -m "fist"
 git push -u origin main
 git log --oneline
 git add .
+git config --global user.name "NAME"
+git config --global user.email "email@.com"
+
