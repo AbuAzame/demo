@@ -1,3 +1,7 @@
+git status
 git add README.md 
 git commit -m "fist-"
 git push -u origin main
+
+git log --oneline
+
