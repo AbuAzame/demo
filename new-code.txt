@@ -12,6 +12,6 @@ git checkout -b your-new-branch-name
 git push -u origin your-new-branch-name
 git push origin --delete <branch-name>
 git checkout main
-
-
+git remote add shining https://github.com/shiningdigitalit-GIT
+git remote -v
 
