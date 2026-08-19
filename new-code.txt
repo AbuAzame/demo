@@ -14,4 +14,4 @@ git push origin --delete <branch-name>
 git checkout main
 git remote add shining https://github.com/shiningdigitalit-GIT
 git remote -v
-
+git push origin main -f
